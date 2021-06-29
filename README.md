@@ -1,5 +1,6 @@
 # Hadoop
 Actividad Individual Hadoop Concurrente
+Revisión finalizada
 
 RESULTADO
 
